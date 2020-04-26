@@ -1,0 +1,16 @@
+<?php
+Arraychunk
+
+$arr= [1,2,3,4,5,6,7];
+
+$res=array_chunk($arr,2);
+
+Print_r($res);
+
+echo"<br>";
+
+$res=array_chunk($arr,3);
+
+print_r($res);
+
+?>

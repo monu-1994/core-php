@@ -1,0 +1,20 @@
+<?php
+$associative=array("Name"=>"Rahul","Age"=>25,"Percentage"=>95.56);
+                   array("Name1"=>"sita","Age1"=>24,"Percentage1"=>85.17);
+				   array("Name"=>"Rohan","Age"=>25,"Percentage"=>90.78);
+				   echo $associative ["Name"];
+				   echo "<br>";
+				   echo $associative ["Age"];
+				   echo "<br>";
+				   echo $associative ["Percentage"];
+				   echo "<br>";
+
+				   echo $associative ["Name1"];
+				   echo "<br>";
+				   echo $associative ["Age1"];
+				   echo "<br>";
+				   echo $associative ["Percentage1"];
+				   echo "<br>";
+
+
+?>
